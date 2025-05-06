@@ -1,10 +1,9 @@
-## 1. Introduction
-## 2. Core Concepts
-## 3. Configuration
-## 4. MultiContainer PODs
-## 5. Observability
-## 6. POD Design
-## 7. Services Networking
-## 8. State Persistence
-## 9. Updates for Sep 2021 Changes
-## 10. Additional Practice Kubernetes Challenges Optional
+## 1. Core Concepts
+## 2. Configuration
+## 3. MultiContainer PODs
+## 4. Observability
+## 5. POD Design
+## 6. Services Networking
+## 7. State Persistence
+## 8. Updates for Sep 2021 Changes
+## 9. Additional Practice Kubernetes Challenges Optional
